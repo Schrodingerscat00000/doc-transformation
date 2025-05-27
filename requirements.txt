@@ -1,0 +1,6 @@
+python-docx
+lxml
+sentence-transformers
+nltk
+numpy
+scipy
